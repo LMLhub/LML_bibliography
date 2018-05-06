@@ -2,45 +2,12 @@
 %% http://bibdesk.sourceforge.net/
 
 
-%% Created for Ole Peters at 2018-05-05 17:45:18 +0100 
+%% Created for Ole Peters at 2018-01-06 16:40:59 +0000 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
 
 
-
-@article{PetersAdamou2018a,
-	Author = {Ole Peters and Alexander Adamou},
-	Date-Added = {2018-05-05 16:44:47 +0000},
-	Date-Modified = {2018-05-05 16:44:47 +0000},
-	Journal = {ar{X}iv:1801.03680},
-	Month = {January},
-	Title = {The time interpretation of expected utility theory},
-	Url = {https://arxiv.org/abs/1801.03680},
-	Year = {2018},
-	Bdsk-Url-1 = {http://arxiv.org/abs/1507.04655}}
-
-@article{PetersAdamou2015b,
-	Author = {Ole Peters and Alexander Adamou},
-	Date-Added = {2018-05-05 16:43:03 +0000},
-	Date-Modified = {2018-05-05 16:43:03 +0000},
-	Journal = {ar{X}iv:1507.04655},
-	Month = {July},
-	Title = {Rational insurance with linear utility and perfect informatio\ n},
-	Url = {http://arxiv.org/abs/1507.04655},
-	Year = {2015},
-	Bdsk-Url-1 = {http://arxiv.org/abs/1507.04655}}
-
-@incollection{LeRoy2016,
-	Author = {Stephen F. LeRoy},
-	Booktitle = {{The New Palgrave Dictionary of Economics}},
-	Date-Added = {2018-05-05 16:36:14 +0000},
-	Date-Modified = {2018-05-05 16:39:57 +0000},
-	Editor = {Steven N. Durlauf and Lawrence E. Blume},
-	Pages = {78--80},
-	Publisher = {Springer},
-	Title = {excess volatility tests},
-	Year = {2016}}
 
 @article{CoxIngersollRoss1985,
 	Abstract = {This paper develops a continuous time general equilibrium model of a simple but complete economy and uses it to examine the behavior of asset prices. In this model, asset prices and their stochastic properties are determined endogenously. One principal result is a partial differential equation which asset prices must satisfy. The solution of this equation gives the equilibrium price of any asset in terms of the underlying real variables in the economy.},
@@ -70,7 +37,7 @@
 	Date-Added = {2018-01-06 16:29:04 +0000},
 	Date-Modified = {2018-01-06 16:29:04 +0000},
 	Month = {January},
-	URL = {https://ssrn.com/abstract=2794830},
+	Note = {Available at SSRN: https://ssrn.com/abstract=2794830},
 	Title = {An Empirical Test of the Ergodic Hypothesis: Wealth Distributions in the {United States}},
 	Year = {2017}}
 
@@ -344,8 +311,9 @@
 	Date-Added = {2016-04-16 17:36:46 +0000},
 	Date-Modified = {2016-04-16 17:36:46 +0000},
 	Journal = {arXiv preprint arXiv:1101.4548},
+	Number = {http://www.santafe.edu/research/working-papers},
 	Title = {Stochastic market efficiency},
-        URL = {http://arXiv.org/abs/1101.4548},
+	Volume = {SFI working paper 13-06-022},
 	Year = {2011}}
 
 @article{PatriarcaChakraborti2013,
@@ -565,14 +533,13 @@
 	Title = {On growth-optimal tax rates and the issue of wealth inequalities},
 	Year = {2015}}
 
-@article{PetersAdamou2018b,
+@article{PetersAdamou2015b,
 	Author = {Ole Peters and Alexander Adamou},
-	Date-Modified = {2018-05-05 16:45:18 +0000},
-	Journal = {ar{X}iv:1802.02939},
-	Month = {February},
-	Title = {The sum of log-normal variates in geometric Brownian motion},
-	Url = {https://arxiv.org/abs/1802.02939},
-	Year = {2018},
+	Journal = {ar{X}iv:1507.04655},
+	Month = {July},
+	Title = {Rational insurance with linear utility and perfect informatio\ n},
+	Url = {http://arxiv.org/abs/1507.04655},
+	Year = {2015},
 	Bdsk-Url-1 = {http://arxiv.org/abs/1507.04655}}
 
 @book{Morowitz1992,
@@ -1730,7 +1697,6 @@
 	Title = {The time resolution of the {St} {Petersburg} paradox},
 	Volume = {369},
 	Year = {2011},
-	URL = {http://dx.doi.org/10.1098/rsta.2011.0065},
 	Bdsk-Url-1 = {http://dx.doi.org/10.1098/rsta.2011.0065},
 	Bdsk-Url-2 = {https://dx.doi.org/10.1098/rsta.2011.0065}}
 
@@ -1745,7 +1711,6 @@
 	Title = {Optimal leverage from non-ergodicity},
 	Volume = {11},
 	Year = {2011},
-	URL = {http://dx.doi.org/10.1080/14697688.2010.513338},
 	Bdsk-Url-1 = {http://dx.doi.org/10.1080/14697688.2010.513338},
 	Bdsk-Url-2 = {https://dx.doi.org/10.1080/14697688.2010.513338}}
 
